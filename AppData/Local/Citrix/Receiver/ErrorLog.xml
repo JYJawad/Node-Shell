@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Errors>
+	<Error Archived="false" Code="4400" Flags="2" Id="9" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Wednesday, February 23, 2022 10:25:02 PM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="8" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Monday, February 14, 2022 9:20:23 AM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="7" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Friday, January 14, 2022 9:02:42 AM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="6" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Wednesday, January 12, 2022 1:27:29 PM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="5" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Monday, December 20, 2021 6:04:12 AM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="4" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Friday, November 26, 2021 8:43:17 PM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="3" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Tuesday, November 23, 2021 7:32:29 PM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="2" Id="2" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Tuesday, November 23, 2021 1:53:15 PM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+	<Error Archived="false" Code="4400" Flags="9" Id="1" SubCode="0">
+	  <Text>Citrix Workspace started.</Text>
+	  <TimeStamp>Tuesday, November 23, 2021 1:23:30 PM</TimeStamp>
+	  <Message/>
+	  <Parameter/>
+	</Error>
+</Errors>
